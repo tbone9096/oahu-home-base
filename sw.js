@@ -1,6 +1,6 @@
 // Oahu Home Base service worker
 // To ship an update: change VERSION below (v1 -> v2 ...), commit, push.
-const VERSION = "v1";
+const VERSION = "v5";
 const CACHE = "ohb-" + VERSION;
 const FONT_CACHE = "ohb-fonts"; // Google Fonts, kept across versions
 
